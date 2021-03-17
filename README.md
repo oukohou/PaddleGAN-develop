@@ -11,7 +11,7 @@
 - 百度AIstudio开源地址,一键fork即可运行:  
 [李云龙二次元风格化！一键fork你也能行](https://aistudio.baidu.com/aistudio/projectdetail/1671397)  
 
-具体详细操作也在AIstudio上一步步列举了,求star求fork1
+具体详细操作也在AIstudio上一步步列举了,求star求fork!
 
 
 在[PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN/blob/develop/README_cn.md) 的基础上做了些微小的改动,鸣谢.
