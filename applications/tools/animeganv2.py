@@ -42,6 +42,7 @@ if __name__ == "__main__":
     # for AI creation 1th
     import cv2
     
+    # video to be transformed.
     video_src = '/home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/videos/LiYunLong/handled/格式工厂混流 亮剑-03+亮剑-03+亮剑-04 00_00_23-.mp4'
     video_ = cv2.VideoCapture(video_src)
     video_name_ = os.path.basename(video_src)
