@@ -70,3 +70,8 @@ if __name__ == "__main__":
         channel_multiplier=args.channel_multiplier
     )
     predictor.run(args.input_image)
+    
+"""
+如下命令进行卡通化或者反转性别:
+ python -u applications/tools/pixel2style2pixel.py --input_image /home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/images/liyunlong1080p/243921779-1-208_1080p_480.png --output_path /home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/images/liyunlong1080p/243921779-1-208_1080p_480_cartoon.png --model_type ffhq-inversion --seed 23 --size 1024 --style_dim 512 --n_mlp 8 --channel_multiplier 2 --cpu
+"""

@@ -197,3 +197,4 @@ class Pixel2Style2PixelPredictor(BasePredictor):
         cv2.imwrite(save_dst_path, cv2.cvtColor(dst_img, cv2.COLOR_RGB2BGR))
         
         return src_img
+
