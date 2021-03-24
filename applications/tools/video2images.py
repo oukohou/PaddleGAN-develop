@@ -44,6 +44,6 @@ def video2images(video_source_, dst_dir_, save_per_seconds_=2):
 
 
 if __name__ == "__main__":
-    video2images('/home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/videos/LiYunLong/handled/《亮剑》 第3集 00_24_48-00_26_34.mp4',
-                 '/home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/images/li',
+    video2images('/home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/videos/LiYunLong/handled/格式工厂混流 hayao_格式.mp4',
+                 '/home/kohou/cvgames/interest/contest/baidu/AIstudio/AICreation/1th/data/images/processed_Li',
                  1)
